@@ -19,7 +19,7 @@ public class MainaderiaTest {
                 new Criatura("PERE",1, Criatura.NEN),
                 new Criatura("NEUS",0, Criatura.NENA),
                 new Criatura("ONA",1, Criatura.NENA),
-                new Criatura("DÕDAC",0, Criatura.NEN),
+                new Criatura("D√çDAC",0, Criatura.NEN),
                 new Criatura("MARIONA",1, Criatura.NENA),
                 new Criatura("EVA",3, Criatura.NENA),
                 new Criatura("FIONA",2, Criatura.NENA),
